@@ -1,2 +1,7 @@
 # Smart-curtain-opener
-Mini project (ปรับปรุง I2C) - เครื่องเปิดปิดผ้าม่านอัจฉริยะ
+Group 2.15: Mini project (improve I2C) - **Smart Curtain Opener**
+Project from Embedded System Laboratory and Microprocessor class.
+
+<!-- [Demonstration video]()
+
+![](picture/) -->
